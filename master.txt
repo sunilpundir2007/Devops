@@ -1,6 +1,0 @@
-This is master branch file
-<<<<<<< HEAD
-This is a added new line in mster file form public1
-=======
-This fiele modify in private branch
->>>>>>> private
